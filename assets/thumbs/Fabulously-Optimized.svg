@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="360" viewBox="0 0 640 360">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#d8b08d"/><stop offset=".52" stop-color="#b9784e"/><stop offset="1" stop-color="#6f4b3a"/></linearGradient></defs>
+<rect width="640" height="360" fill="url(#g)"/><rect y="238" width="640" height="122" fill="#6d7549"/>
+<path d="M0 255L120 130 210 220 315 105 430 230 520 145 640 255V360H0Z" fill="#8d9b68" opacity=".72"/>
+<g opacity=".35"><rect x="28" y="34" width="54" height="54" fill="#fff"/><rect x="86" y="34" width="54" height="54" fill="#fff"/><rect x="28" y="92" width="54" height="54" fill="#fff"/><rect x="86" y="92" width="54" height="54" fill="#fff"/></g>
+<rect x="28" y="282" width="584" height="50" rx="12" fill="#241811" opacity=".78"/>
+<text x="50" y="308" font-family="Arial,sans-serif" font-size="15" font-weight="700" fill="#e8d6c5" letter-spacing="2">MODPACK</text>
+<text x="50" y="360" font-family="Arial,sans-serif" font-size="29" font-weight="800" fill="#fff" dominant-baseline="ideographic">Fabulously Optimized</text>
+</svg>
